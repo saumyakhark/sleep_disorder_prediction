@@ -1,4 +1,4 @@
-# sleep_disorder_prediction
+# sleeping_disorder_prediction
 Sleep Disorder Prediction using Machine Learning
 
 This project aims to predict sleep disorders based on various health and lifestyle factors using machine learning. The model is built with a Random Forest Classifier and trained on a dataset containing information like sleep duration, physical activity, stress levels, heart rate, and more. The application is built using Flask and is deployed as a web service for user interaction.
